@@ -1,0 +1,2 @@
+TextView tvName;
+Button btnSave;
